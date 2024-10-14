@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.max-width-wrapper {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.intro-chunk {
+  margin: 20px;
+}
+
+.card {
+  padding: 10px;
+  background: white;
+  border-bottom: 10px lightgray solid;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+.indented-heading {
+  background-color: yellow;
+  margin-left: -20px;
+  padding: 20px 30px;
+  max-width: max-content;
+  border-bottom: 10px khaki solid;
+}
+
+header p {
+  max-width: 350px;
+}
+
+h1 {
+  margin: 50px 0;
+}
+
+main {
+  background-color: gray;
+  border-top: 10px lightgray solid;
+}
+
+main section {
+  padding: 40px 0;
+}
+
+strong {
+  display: inline-block;
+  color: turquoise;
+}
+
+/* Add styles here! */
